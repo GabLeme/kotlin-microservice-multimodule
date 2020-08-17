@@ -1,0 +1,6 @@
+dependencies {
+    compile project(":repository")
+    compile project(":entities")
+    compile project(":usecases")
+    compile project(":web")
+}

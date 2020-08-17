@@ -1,0 +1,4 @@
+dependencies {
+    compile project(":repository")
+    compile project(":entities")
+}
